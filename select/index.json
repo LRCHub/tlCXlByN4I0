@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コーヒーとシロップ (LIVE)",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-02-24T21:35:24.587898Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コーヒーとシロップ",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_コーヒーとシロップ_Official髭男dism.txt"
+    }
+  ]
+}
